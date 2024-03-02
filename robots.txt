@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://lucian.run/superjp.html/sitemap.xml
+Sitemap: https://lucian.run/gojekpot.html/sitemap.xml
+Sitemap: https://lucian.run/winstrike69.html/sitemap.xml
+Sitemap: https://lucian.run/jagoan86.html/sitemap.xml
+Sitemap: https://lucian.run/kaptenjackpot.html/sitemap.xml
+Sitemap: https://lucian.run/boosterjp.html/sitemap.xml
+Sitemap: https://lucian.run/kerajaanslot.html/sitemap.xml
+Sitemap: https://lucian.run/viral88.html/sitemap.xml
+Sitemap: https://lucian.run/clan4d.html/sitemap.xml
+Sitemap: https://lucian.run/dinamit4d.html/sitemap.xml
+Sitemap: https://lucian.run/gori77.html/sitemap.xml
+Sitemap: https://lucian.run/viral4d.html/sitemap.xml
